@@ -6,6 +6,3 @@
   
   </a>   <p align="center"> <a href="https://github.com/kitsunekozz">
   <img src="https://github.com/TIMELESSROT/TIMELESSROT/blob/1c54fcecb79ec27a97a6c089a4ece9b0f353fa65/440%20sin%20t%C3%ADtulo_20260801205232.png" width="200">  
-
-</a>   <p align="left"> <a href="https://github.com/shurilong">
-  <img src="https://github.com/TIMELESSROT/TIMELESSROT/blob/1c54fcecb79ec27a97a6c089a4ece9b0f353fa65/440%20sin%20t%C3%ADtulo_20260801205426.png" width="200">
