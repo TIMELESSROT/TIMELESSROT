@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/TIMELESSROT/TIMELESSROT/blob/ef74d4fc461db171d79d4a93d40a926f5605cf43/510%20sin%20t%C3%ADtulo_20260925064402.png" width="950"/> 
+<p align="center"> <img src="https://github.com/TIMELESSROT/TIMELESSROT/blob/ef74d4fc461db171d79d4a93d40a926f5605cf43/510%20sin%20t%C3%ADtulo_20260925064402.png" width="1000"/> 
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xhjiviljliz5m2hy2uc5asqn7a&redirect=true">
